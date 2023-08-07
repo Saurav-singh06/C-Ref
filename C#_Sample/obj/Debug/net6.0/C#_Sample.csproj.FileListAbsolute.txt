@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\bin\Debug\net6.0\C#_Sample.exe
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\bin\Debug\net6.0\C#_Sample.deps.json
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\bin\Debug\net6.0\C#_Sample.runtimeconfig.json
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\bin\Debug\net6.0\C#_Sample.dll
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\bin\Debug\net6.0\C#_Sample.pdb
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.AssemblyInfo.cs
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.dll
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\refint\C#_Sample.dll
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.pdb
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\C#_Sample.genruntimeconfig.cache
+C:\Users\Hp\source\repos\C#_Sample\C#_Sample\obj\Debug\net6.0\ref\C#_Sample.dll
