@@ -344,3 +344,26 @@ Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
 
 Console.WriteLine(avenger.Rating);
 
+
+//Static Method & Classes
+
+Song holiday = new Song("Holiday", "Green Day", 200);
+Song Kashmira = new Song("Kashmir", "Day", 300);
+
+Console.WriteLine(Song.songCount);
+Console.WriteLine(holiday.getSongCount());
+
+
+
+useFullTools.SayHi("Saurav");
+
+
+Chef chef = new Chef();
+chef.MakeSpecialDish();
+
+italianChef italianchef = new italianChef();
+//italianchef.MakeSalad();
+
+italianchef.MakeSpecialDish();
+
+
