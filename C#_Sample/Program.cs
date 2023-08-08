@@ -326,4 +326,21 @@ Console.WriteLine(book2.author);
 Console.WriteLine(book3.author);
 Console.WriteLine(book4.author);
 
-// Constructor
+
+//Object Method
+
+Student stud1 = new Student("Sangam", "Science", 9.6);
+Student stud2 = new Student("Saurav", "Science", 8.6);
+
+Console.WriteLine(stud1.HasHonors());
+Console.WriteLine(stud2.HasHonors());
+
+
+// Getter & Setter
+
+Movie avenger = new Movie("The Avenger", "John Whedon", "PG");
+
+Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
+
+Console.WriteLine(avenger.Rating);
+

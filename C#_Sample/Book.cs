@@ -13,6 +13,9 @@ namespace C__Sample
         public string title;
         public int pages;
 
+        // Contructor
+
+        public Book() { }
         public Book(string aAuthor,string aTitle ,int aPages) {
             //Console.WriteLine("Creating Book");
             title = aTitle;
