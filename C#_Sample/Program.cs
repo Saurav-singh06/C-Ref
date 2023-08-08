@@ -220,7 +220,9 @@ while(index <= 5)
     index++;
 }*/
 
-string secretWord = "Hello";
+// Guessing Game
+
+/*string secretWord = "Hello";
 string guess = "";
 int guessCount = 0;
 int guessLimit = 3;
@@ -248,4 +250,80 @@ if (outOfGuesses)
 else
 {
     Console.WriteLine("You Win");
-}
+}*/
+
+/*for(int i = 1; i <= 5; i++)
+{
+    Console.WriteLine(i);
+}*/
+
+/*int[] arr = { 3, 5, 34, 65, 78, 23 };
+for(int i =0; i<= arr.Length; i++)
+{
+    Console.WriteLine(arr[i]);
+}*/
+
+// Building an Exponent Method
+
+
+/*Console.WriteLine(GetPow(4, 2));
+static int GetPow(int baseNum, int PowNum)
+{
+    int result = 1;
+    for (int i = 0; i < PowNum; i++)
+    {
+        result *= baseNum;
+    }
+    return result; ;
+}*/
+
+// 2d Array
+
+/*int[,] numGrid =
+{
+    {1,2},
+    {3,4},
+    {5,6}
+};
+
+int[,] myArray = new int[2, 3];
+
+Console.WriteLine(numGrid[2, 1]);*/
+
+
+//Exceptional Handling
+
+
+
+using C__Sample;
+
+//try
+//{
+//    Console.WriteLine("Enter num1 : ");
+//    int num1 = Convert.ToInt32(Console.ReadLine());
+//    Console.WriteLine("Enter Another num: ");
+//    int num2 = Convert.ToInt32(Console.ReadLine());
+
+//    Console.WriteLine(num1 / num2);
+//}
+//catch(Exception e)
+//{
+//    Console.WriteLine(e.Message);
+//}
+
+
+Book book1 = new Book("Saurav","Singh",200);
+Book book2 = new Book("rohit", "Singh", 200);
+Book book3 = new Book("monika", "Singh", 200);
+Book book4 = new Book("shubham", "Singh", 200);
+
+/*book1.author = "Saurav"
+book1.title = "Singh";
+book1.pages = 2000;*/
+
+Console.WriteLine(book1.author);
+Console.WriteLine(book2.author);
+Console.WriteLine(book3.author);
+Console.WriteLine(book4.author);
+
+// Constructor
